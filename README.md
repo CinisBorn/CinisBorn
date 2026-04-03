@@ -1,6 +1,6 @@
 # Developer Debugging...
 
-Hi, I'm a developer studying about fundamentals concepts like Data Structure, Databases, System and so on... My current technologies are `Rust` and `C` for study purposes. I have experience with `JavaScript`/`TypeScript` too. 
+Hi, I'm a developer studying about fundamentals concepts like Data Structure, Databases, System and so on... My current technologies are `Rust` and I use `C` for studing purposes. I have experience with `JavaScript`/`TypeScript` too. 
 
 # Technologies I use: 
 
